@@ -6,7 +6,7 @@ int main(void)
 	int c = 5, d;
 	float a = 5, b;
 	printf("b=");
-	scanf("%d", &b);
+	scanf("%f", &b);
 	printf("d=");
 	scanf("%d", &d);
 	a += b - 2;
